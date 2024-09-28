@@ -24,7 +24,7 @@ height: 714px;
 top: 10px;
 left: 51px;
 gap: 0px;
-opacity: 0.2px;
+
 
   position: relative;
  
@@ -43,7 +43,7 @@ height: 72px;
 gap: 0px;
 border-radius: 15px;
 border: 1px;
-opacity: 0px;
+
 background: rgba(255, 187, 55, 1);
 cursor: pointer;
 font: Space Mono;
@@ -52,7 +52,6 @@ color: black;
 font-weight: 400;
 font-size: 30.42px;
 line-height: 45.06px;
-z-index: 10; /* Increase this value */
    
 
 
@@ -65,9 +64,8 @@ height: 344px;
 top: 321px;
 left: 180px;
 gap: 0px;
-opacity: 0px;
+
 z-index: 3;
-z-index: 10; /* Increase this value */
 
 }
 
@@ -80,7 +78,6 @@ font-weight: 700;
 line-height: 172px;
 text-align: left;
 color: rgba(255, 255, 255, 1);
-z-index: 10; /* Increase this value */
 
 
 }
@@ -95,8 +92,8 @@ height: 53px;
 top: 10%;
 left: 10%;
 gap: 0px;
-opacity: 0.7px;
-z-index: 10;
+
+z-index: 3;
 
 }
 
@@ -110,7 +107,6 @@ line-height: 53.32px;
 text-align: left;
 color: rgba(255, 255, 255, 1);
 opacity: 70%;
-z-index: 10; /* Increase this value */
 
 
 }
@@ -123,7 +119,6 @@ z-index: 10; /* Increase this value */
   line-height: 53.32px;
   text-align: left;
   word-spacing: 10px;
-  z-index: 10; /* Increase this value */
   
 
 color: rgba(255, 255, 255, 1);
@@ -137,7 +132,7 @@ height: 507.79px;
 top: -318.25px;
 left: 454px;
 gap: 0px;
-opacity: 0.8px;
+
 
 
   background: rgba(144, 238, 144, 0.8); 
